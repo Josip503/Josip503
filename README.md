@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Josip503
+- 👋 Hi, I’m Josip Conjar
 - 👀 I’m interested in writing codes.     
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me? You can reach me on josip.conjar@gmail.com
